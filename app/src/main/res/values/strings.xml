@@ -13,7 +13,8 @@
     <string name="_1">1</string>
     <string name="substract">-</string>
     <string name="_0">0</string>
-    <string name="crl">CRL</string>
+    <string name="clr">CLR</string>
     <string name="Add">+</string>
     <string name="Equal">=</string>
+    <string name="dot">.</string>
 </resources>
